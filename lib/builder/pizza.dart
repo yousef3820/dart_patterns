@@ -1,4 +1,4 @@
-import 'package:dart_builder_pattern/pizza_builder.dart';
+import 'package:dart_fascade_pattern/builder/pizza_builder.dart';
 
 class Pizza {
   final String size;
